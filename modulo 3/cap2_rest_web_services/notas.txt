@@ -1,0 +1,26 @@
+-- descargar tomcat y dirigirse a la carpeta alevantar el servidor  con
+startup.bat
+- las paguinas se publican en webapps
+-- para parar el servicio es
+** shutdown
+para  revisar version 
+** node -v
+--- siempre para que se suba debes hacer 
+
+intalar 
+npm install -g firebase-tools
+
+-logearnos 
+*firebase login
+para iniciar 
+*firebase init
+-para subor 
+firebase deploy
+
+*** en inventarios se utiizo arquetipo de webapp-j2ee13
+
+se debe cambiar en context y server
+ademas en la conexion en java en data sourse 
+despues configurar el servelt en webapp eclipce en web.xml
+depsues configurar el pom conlas dependencias 
+ 
